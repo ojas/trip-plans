@@ -1,0 +1,14 @@
+env
+*.pyc
+*.sqlite3
+*.mmdb
+*.log
+media
+util/local_settings.py
+agx/local_settings.py
+.DS_Store
+node_modules
+bower_components
+.idea
+web/static/js/jsx_build/.module-cache
+
