@@ -26,6 +26,8 @@
 - Peterson Auto Museum
 - Route 66
 - US1
+- aurora borealis
+- craters - where can i see these?
 
 ## Things to Try
 
