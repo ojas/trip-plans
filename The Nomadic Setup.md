@@ -7,7 +7,7 @@
 Taco is my 2005 Toyota Tacoma PreRunner I purchased in July 2014. I used to a 2004 Porsche Cayenne who proved to be a bit too fussy.
 
 
-#### Tow Pacakge
+#### Tow Package
 
 > ...Add the V6 engine and a receiver hitch, the limit goes up to 5000 pounds. Up to 6500 pounds can be pulled with the tow package that includes an automatic transmission cooler, engine oil cooler, upgraded battery and 130-amp alternator.
 	
