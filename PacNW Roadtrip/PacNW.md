@@ -41,3 +41,11 @@ via [reddit](http://www.reddit.com/r/SkyPorn/comments/1pbskj/milky_way_over_mt_s
 via [reddit](http://www.reddit.com/r/EarthPorn/comments/1qcw7t/lake_louise_banff_canada_1500x699_os_ryan_engstrom/)
 
 - [Fairmont Chateau Lake Louise](http://www.fairmont.com/lake-louise/)
+
+## ID
+
+- [Swan Valley](http://www.jacksonholenet.com/swan_valley_idaho/)
+
+## WY
+
+- [Jackson Hole](http://en.wikipedia.org/wiki/Jackson_Hole)

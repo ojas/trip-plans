@@ -1,13 +1,13 @@
 # Taco & Olga
 
-![Taco & Olga](http://photos-g.ak.instagram.com/hphotos-ak-xap1/10507962_540187022753382_1220964553_n.jpg)
+![Taco & Olga & CBR](http://photos-g.ak.instagram.com/hphotos-ak-xfa1/10624463_679597865457470_1949265462_n.jpg)
 
 ## Taco
 
 Taco is my 2005 Toyota Tacoma PreRunner I purchased in July 2014. I used to a 2004 Porsche Cayenne who proved to be a bit too fussy.
 
 
-#### Tow Pacakge
+#### Tow Package
 
 > ...Add the V6 engine and a receiver hitch, the limit goes up to 5000 pounds. Up to 6500 pounds can be pulled with the tow package that includes an automatic transmission cooler, engine oil cooler, upgraded battery and 130-amp alternator.
 	
@@ -41,3 +41,12 @@ Hitch Ball height | 17.75"
 Hitch Weight | 720 lbs
 Base Weight | 4,701 lbs
 
+### CBR
+
+My 2008 CBR1000RR fits in the back of Taco.
+
+### Equipment
+
+- Portable battery charger / booster / air pump
+- Mobile WIFI: Clear wireless modem + Apple Airport Extreme
+- [Trackside Aluminum Folding Motorcycle Ramp](http://www.cyclegear.com/TRACKSIDE-Aluminum-Folding-Ramp)
