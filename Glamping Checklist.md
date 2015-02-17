@@ -35,7 +35,6 @@
 
 ### Ojas
 
-- First aid kit
 - binoculars & tripod
 - GoPro
 - vitamix
@@ -47,6 +46,7 @@
 - Apple TV & cables
 - sunscreen
 - tire iron thingy
+- ✓ First aid kit
 - ✓ air-compressor, battery booster
 - ✓ toolbox, tire repair kit
 - ✓ ice trays
