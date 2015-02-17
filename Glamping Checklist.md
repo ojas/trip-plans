@@ -38,15 +38,16 @@
 - First aid kit
 - binoculars & tripod
 - GoPro
-- water hose
+- vitamix
 - cooler
-- toolbox, tire repair kit
-- air-compressor, battery booster
 - coolant hose repair kit
 - extra oil / water
 - pots & pans
 - dishes & glassware
 - Apple TV & cables
-- ice trays
 - sunscreen
 - tire iron thingy
+- ✓ air-compressor, battery booster
+- ✓ toolbox, tire repair kit
+- ✓ ice trays
+- ✓ water hose
