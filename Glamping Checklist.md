@@ -47,6 +47,7 @@
 - sunscreen
 - tire iron thingy
 - laser pointer
+- wine glasses
 - ✓ First aid kit
 - ✓ air-compressor, battery booster
 - ✓ toolbox, tire repair kit
