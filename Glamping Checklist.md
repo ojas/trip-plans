@@ -46,6 +46,7 @@
 - Apple TV & cables
 - sunscreen
 - tire iron thingy
+- laser pointer
 - ✓ First aid kit
 - ✓ air-compressor, battery booster
 - ✓ toolbox, tire repair kit
